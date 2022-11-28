@@ -32,7 +32,7 @@
     },
     "semanticClass": "tokyo-night-storm",
     "colors": {
-        "foreground": "#fff", //#c5cbde 
+        "foreground": "#c5cbde", //#c5cbde 
         "descriptionForeground": "#545c7e",
         "focusBorder": "#545c7e33",
         "errorForeground": "#5a607d",
@@ -89,7 +89,7 @@
         "activityBar.inactiveForeground": "#41496b", //#3b4261
         "activityBar.border": "#1f2335",
         "activityBarBadge.background": "#3d59a1",
-        "activityBarBadge.foreground": "#fff",
+        "activityBarBadge.foreground": "#c5cbde",
 
         "tree.indentGuidesStroke": "#2e344f",
         "sideBar.foreground": "#c5cbde", // "#c5cbde"
@@ -298,7 +298,7 @@
         "titleBar.border": "#1b1e2e",
 
         "walkThrough.embeddedEditorBackground": "#1f2335",
-        "textLink.foreground": "#fff", //"#668ac4"
+        "textLink.foreground": "#c5cbde", //"#668ac4"
         "textLink.activeForeground": "#7dcfff",
         "textPreformat.foreground": "#73daca",
         "textBlockQuote.background": "#1f2335",
@@ -332,7 +332,7 @@
         "debugIcon.breakpointUnverifiedForeground": "#c24242",
 
         "terminal.background": "#1f2335",
-        "terminal.foreground": "#fff", //"#c5cbde"
+        "terminal.foreground": "#c5cbde", //"#c5cbde"
         "terminal.selectionBackground": "#6f7bb620",
         // "terminalCursor.background": "",
         // "terminalCursor.foreground": "",
@@ -344,7 +344,7 @@
         "terminal.ansiBlue": "#7aa2f7",
         "terminal.ansiMagenta": "#bb9af7",
         "terminal.ansiCyan": "#7dcfff",
-        "terminal.ansiWhite": "#fff", // "#b4b8ca"
+        "terminal.ansiWhite": "#c5cbde", // "#b4b8ca"
         "terminal.ansiBrightBlack": "#414868",
         "terminal.ansiBrightRed": "#f7768e",
         "terminal.ansiBrightGreen": "#73daca",
@@ -352,7 +352,7 @@
         "terminal.ansiBrightBlue": "#7aa2f7",
         "terminal.ansiBrightMagenta": "#bb9af7",
         "terminal.ansiBrightCyan": "#7dcfff",
-        "terminal.ansiBrightWhite": "#fff", // "#b4b8ca"
+        "terminal.ansiBrightWhite": "#c5cbde", // "#b4b8ca"
 
         "gitDecoration.modifiedResourceForeground": "#6183bb",
         "gitDecoration.ignoredResourceForeground": "#545c7e",
@@ -640,7 +640,7 @@
                 "meta.import keyword.other"
             ],
             "settings": {
-                "foreground":  "#7dcfff"
+                "foreground":  "#bb9af7"
             }
         },
         {
@@ -687,7 +687,7 @@
             "name": "Tag Component",
             "scope": [
                 "entity.name.tag support.class.component",
-                 "meta.tag"
+                "meta.tag"
             ],
             "settings": {
                 "foreground": "#c099ff"
@@ -697,7 +697,7 @@
             "name": "Tag Punctuation",
             "scope": "punctuation.definition.tag",
             "settings": {
-                "foreground": "#c099ff"
+                "foreground": "#7dcfff"
             }
         },
         {
@@ -840,7 +840,7 @@
                 "keyword.other.unit"
             ],
             "settings": {
-                "foreground": "#bb9af7"
+                "foreground": "#73daca" //bb9af7
             }
         },
         {
@@ -853,7 +853,7 @@
                 "variable.other.declaration"
             ],
             "settings": {
-                "foreground": "#bb9af7"
+                "foreground": "#c0caf5"
             }
         },
         {
@@ -861,7 +861,7 @@
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#bb9af7"
+                "foreground": "#2ac3de" // "#bb9af7"
             }
         },
         {
@@ -890,7 +890,7 @@
             "name": "Class Name",
             "scope": "entity.name",
             "settings": {
-                "foreground": "#c0caf5"
+                "foreground": "#2ac3de"
             }
         },
         {
@@ -1086,7 +1086,7 @@
 
             ],
             "settings": {
-                "foreground": "#bb9af7"
+                "foreground": "#73daca" // CHECKPOINT
             }
         },
         {
