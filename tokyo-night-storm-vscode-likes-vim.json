@@ -1,8 +1,7 @@
-// "#c5cbde" FONTE BASE
 {
-    "name": "Tokyo Night Storm",
-    "author": "Enkia",
-    "maintainers": ["Enkia <enki77@gmail.com>"],
+    "name": "Tokyo Night Storm Nvim",
+    "author": "Nicolai",
+    "maintainers": ["Nicolai"],
     "type": "dark",
     "semanticTokenColors": {
         "parameter.declaration": {
@@ -680,7 +679,7 @@
             "name": "Tag",
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#c099ff"
+                "foreground": "#2ac3de"
             }
         },
         {
@@ -690,7 +689,7 @@
                 "meta.tag"
             ],
             "settings": {
-                "foreground": "#c099ff"
+                "foreground": "#2ac3de"
             }
         },
         {
@@ -1086,7 +1085,7 @@
 
             ],
             "settings": {
-                "foreground": "#73daca" // CHECKPOINT
+                "foreground": "#bb9af7" // CHECKPOINT
             }
         },
         {
